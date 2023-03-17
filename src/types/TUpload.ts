@@ -1,0 +1,1 @@
+export type TUpload = 'avatar' | 'pokemon' | 'dresseur';

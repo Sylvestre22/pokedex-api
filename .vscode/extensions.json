@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "pmneo.tsimporter",
+        "stringham.move-ts",
+        "rbbit.typescript-hero",
+        "esbenp.prettier-vscode",
+        "mscolnick.export-typescript",
+        "ms-vscode.vscode-typescript-next",
+        "dskwrk.vscode-generate-getter-setter",
+      ]
+}
