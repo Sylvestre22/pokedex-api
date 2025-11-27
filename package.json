@@ -21,7 +21,7 @@
         "express-jwt": "^5.3.1",
         "express-session": "^1.15.6",
         "express-status-monitor": "^1.2.3",
-        "express-validator": "^5.3.0",
+        "express-validator": "^6.5.0",
         "font-awesome": "^4.7.0",
         "jquery": "^3.3.1",
         "jquery.easing": "^1.4.1",
